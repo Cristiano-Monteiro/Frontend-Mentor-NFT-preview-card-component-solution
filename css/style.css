@@ -1,0 +1,44 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+
+main{
+    width: 300px;
+    height: 550px;
+    margin: auto;
+    padding: 22px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 14px;
+    margin-top: 95px;
+    margin-bottom: 95px;
+}
+
+.NftImage{
+    width: 300px;
+    border-radius: 13px;
+}
+
+h1{
+    font-size: 23px;
+    color: white;
+}
+
+.paragrafo1{
+    font-size: 19px;
+}
+
+section{
+    display: flex;
+}
+
+hr{
+    line-height: 90px;
+}
+
+footer{
+    display: flex;
+}
+
+footer img{
+    width: 50px;
+}
