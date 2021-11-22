@@ -16,12 +16,20 @@ main{
 }
 
 .NftImage{
+    position: relative;
     width: 300px;
     border-radius: 13px;
 }
 
-.Linknft:hover{
-    background-image: url(../images/icon-view.svg);
+.Linknft{
+    display: flex;
+    width: 300px;
+    border-radius: 13px;
+    background-color: hsl(178, 100%, 50%);
+}
+
+.NftImage:hover{
+    opacity: 0.4;
 }
 
 h1{
@@ -77,6 +85,9 @@ footer img{
 }
 
 footer img:hover{
+    margin: 0;
+    margin-right: 13px;
+    margin-top: 8px;
     border: 2px white solid;
     border-radius: 50%;
 }
