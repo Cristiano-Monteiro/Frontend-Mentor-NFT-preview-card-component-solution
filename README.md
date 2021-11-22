@@ -5,3 +5,5 @@
 
 Desafio retirado do site Frontend Mentor // Challenge taken from the Frontend Mentor website:
 https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U  
+
+Link do site: https://cristiano-monteiro.github.io/Projeto-NFT-card-pagina/
