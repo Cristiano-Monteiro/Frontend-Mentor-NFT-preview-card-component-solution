@@ -25,11 +25,19 @@ main{
     display: flex;
     width: 300px;
     border-radius: 13px;
-    background-color: hsl(178, 100%, 50%);
 }
 
-.NftImage:hover{
-    opacity: 0.4;
+.icon:hover{
+    opacity: 1;
+    background-color: hsl(178, 100%, 50%, 0.5);
+    border-radius: 13px;
+    transition: 0.5s;
+}
+
+.icon{
+    position: absolute;
+    opacity: 0;
+    padding: 125px;
 }
 
 h1{
