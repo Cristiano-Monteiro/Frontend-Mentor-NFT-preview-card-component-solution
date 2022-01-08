@@ -1,3 +1,4 @@
+![foto-nft-card](https://user-images.githubusercontent.com/91402144/148663003-97ddcd90-038c-404a-92a5-0bb7e5ce8222.png)
 # Projeto-NFT-card-pagina
 (PT-BR) Página básica de um card NFT usando apenas HTML e CSS.
 
