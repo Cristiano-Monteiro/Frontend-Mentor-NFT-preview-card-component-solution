@@ -1,6 +1,6 @@
 <div>
-    <img src="https://user-images.githubusercontent.com/91402144/159839617-02f53f98-0250-4319-980e-4222bfb1c5e7.png" width="600px">
-    <img src="https://user-images.githubusercontent.com/91402144/159839645-772514b9-a622-4f04-93d6-379aa93730c5.png" width="210px">
+    <img src="https://user-images.githubusercontent.com/91402144/159839617-02f53f98-0250-4319-980e-4222bfb1c5e7.png" width="500px">
+    <img src="https://user-images.githubusercontent.com/91402144/159839645-772514b9-a622-4f04-93d6-379aa93730c5.png" width="175px">
 </div>
 
 # Frontend Mentor - NFT preview card component solution
