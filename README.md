@@ -1,6 +1,6 @@
 <div>
-    <img src="https://user-images.githubusercontent.com/91402144/159839617-02f53f98-0250-4319-980e-4222bfb1c5e7.png" width="500px">
-    <img src="https://user-images.githubusercontent.com/91402144/159839645-772514b9-a622-4f04-93d6-379aa93730c5.png" width="175px">
+    <img src="https://user-images.githubusercontent.com/91402144/159839617-02f53f98-0250-4319-980e-4222bfb1c5e7.png" width="50%">
+    <img src="https://user-images.githubusercontent.com/91402144/159839645-772514b9-a622-4f04-93d6-379aa93730c5.png" width="17.5%">
 </div>
 
 # Frontend Mentor - NFT preview card component solution
@@ -12,8 +12,8 @@
 - (PT-BR) Página básica de um card NFT usando apenas HTML e CSS.
 
 ### Links
-- Solution URL: https://github.com/Cristiano-Monteiro/Projeto-NFT-card-pagina
-- Live Site URL: https://cristiano-monteiro.github.io/Projeto-NFT-card-pagina/
+- Solution URL: https://github.com/Cristiano-Monteiro/Frontend-Mentor-NFT-preview-card-component-solution
+- Live Site URL: https://cristiano-monteiro.github.io/Frontend-Mentor-NFT-preview-card-component-solution/
 
 ## My-process / Meu processo
 ### Built with / Construído com
